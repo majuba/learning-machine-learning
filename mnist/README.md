@@ -1,3 +1,3 @@
-# Learning Machine Learning 
+# MNIST Classifier
 
-This repository contains basic ML projects, that i use to learn pytorch and machine learning concepts, as well as brush up my python skills.
+I've heard this is basically the ML Version of "hello world".
